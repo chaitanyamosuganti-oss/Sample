@@ -2,7 +2,6 @@ class Sample{
 public static void main(String args[]){
 System.out.print("To check given number is Prime or Not");
 int n=6,i,count=0;
-Scanner s1=new Scanner(System.in);
 System.out.println("enter any number");
 for (i=2;i<n;i++)
 {
